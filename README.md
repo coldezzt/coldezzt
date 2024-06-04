@@ -11,7 +11,7 @@ And you don't need to! Because I'm **already** here! 😎
 - KFU, Kazan Federal University (2022 - now)
   - ITIS, Institute of Information Technologies and Intelligent Systems
 
-## Something from my stack and knowledge 📚
+### Something from my stack and knowledge 📚
 
 - C#
   - ASP.NET
