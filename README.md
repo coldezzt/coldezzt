@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, stranger! I'm coldezzt 👋
 
-<!--
-**coldezzt/coldezzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm really looking forward for finding my place in the .NET development team! ✨
 
-Here are some ideas to get you started:
+Imagine finding some programmer that can create fast, interesting and ~~sometimes~~ creative ideas...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And you don't need to! Because I'm **already** here! 😎
+
+## Education
+
+- KFU, Kazan Federal University (2022 - now)
+  - ITIS, Institute of Information Technologies and Intelligent Systems
+
+## Something from my stack and knowledge 📚
+
+- C#
+  - ASP.NET
+  - Entity Framework
+  - Hangfire
+  - SignalR
+  - Serilog + Seq
+  - 2FA (TOTP) + OAuth
+- JavaScript
+  - React.js
+  - Nest.js
+  - Webpack
+
+## Cool stats! 🏆
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=coldezzt&theme=merko&card_width=700"></img>
+</div>
+
+## Pet projects! 🐱
+
+Yes, I have some _very_ interesting projects below!
+<div align="center">
+  <img src="https://github.com/coldezzt/coldezzt/blob/main/meme.png"></div>
+</div>
+
+# See ya! 🤙
