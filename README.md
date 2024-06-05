@@ -28,7 +28,9 @@ And you don't need to! Because I'm **already** here! 😎
 ## Cool stats! 🏆
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=coldezzt&theme=merko&card_width=700"></img>
+    <img src="https://streak-stats.demolab.com/?user=coldezzt&theme=merko&card_width=700" />
+    <hr>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666082a1b998f3b3c7c84bb8?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 </div>
 
 ## Pet projects! 🐱
