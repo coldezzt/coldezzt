@@ -30,7 +30,7 @@ And you don't need to! Because I'm **already** here! 😎
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=coldezzt&theme=merko&card_width=700" />
     <hr>
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666082a1b998f3b3c7c84bb8?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666082a1b998f3b3c7c84bb8?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cdatastructures-and-algorithms%2Clinux" alt="roadmap.sh"/></a>
 </div>
 
 ## Pet projects! 🐱
